@@ -12,3 +12,4 @@ Place presentation graphics and images in this directory.
 - Formats: JPG or PNG
 - Keep file sizes reasonable for web (under 500KB when possible)
 
+
