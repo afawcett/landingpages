@@ -2,7 +2,7 @@
 
 This is a GitHub Pages site that hosts landing pages for presentations given by AndyInTheCloud Consulting Ltd.
 
-## Structure
+## Structure 
 
 - `index.html` - Main page listing all presentations
 - `sessions/` - Individual session pages
