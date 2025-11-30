@@ -1,6 +1,6 @@
-# AndyInTheCloud Consulting - Presentation Landing Pages
+# AndyInTheCloud Consulting Ltd - Presentation Landing Pages
 
-This is a GitHub Pages site that hosts landing pages for presentations given by AndyInTheCloud Consulting.
+This is a GitHub Pages site that hosts landing pages for presentations given by AndyInTheCloud Consulting Ltd.
 
 ## Structure
 
