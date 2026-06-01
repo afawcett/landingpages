@@ -125,7 +125,7 @@ main {
 .presentation-card .read-more {
     color: var(--primary-color);
     font-weight: 600;
-    display: inline-block;
+    display: block;
     margin-top: 1rem;
 }
 
